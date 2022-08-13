@@ -29,7 +29,7 @@ _- here are so many cool guys on the Internet 😎_
 ### 💬 Would you like to chat with me?
 
 > Telegram: [t.me/dn_alekseev](https://t.me/dn_alekseev/) _(you can also write about work)_\
-> E-mail - [mail@dn-alekseev.com](mailto:mail@dn-alekseev.com)
+> E-mail - [mail@dn-alekseev.ru](mailto:mail@dn-alekseev.ru)
 
 ### 🌄 The place where I get inspired
 
