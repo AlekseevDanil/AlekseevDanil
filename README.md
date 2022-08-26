@@ -38,6 +38,7 @@ _- that's how many cool guys visited my profile 😎_
 
 ### 🌄 The place where I get inspired
 
+> Medium: [dnalekseev.medium.com](https://dnalekseev.medium.com)\
 > Pinterest: [pinterest.com/dnalekseev](https://www.pinterest.ru/dnalekseev/)
 
 - - -
