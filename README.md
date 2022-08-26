@@ -1,7 +1,7 @@
 <img src="https://media3.giphy.com/media/3l5yJWhnbw5yyqDcQg/giphy.gif?cid=ecf05e47oa1aeui5zb01gl4xiaulydirlr4ql12nrmg8ycqh&rid=giphy.gif&ct=g" width="400">\
 _Hello there! 👋 Thank you for your interest in my profile, hope you find something useful for yourself_\
 ![Visitors](https://profile-counter.glitch.me/AlekseevDanil/count.svg)
-_- that's how many cool guys visited my profile 😎_ 
+_- that's how many cool guys visited my profile 😎_
 
 - - -
 
