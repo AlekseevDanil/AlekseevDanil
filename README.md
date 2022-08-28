@@ -32,6 +32,7 @@ _- that's how many cool guys visited my profile 😎_
 
 ### 💬 Would you like to chat with me?
 
+> LinkedIn: [linkedin.com/in/dnalekseev](https://www.linkedin.com/in/dnalekseev)\
 > Telegram: [t.me/dn_alekseev](https://t.me/dn_alekseev/) _(open to job offers)_\
 > E-mail - [mail@dn-alekseev.ru](mailto:mail@dn-alekseev.ru)
 
