@@ -43,5 +43,3 @@ _- that's how many cool guys visited my profile 😎_
 
 - - -
 🌟 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me.
-
-![Danil Alekseev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlekseevDanil&show_icons=true&theme=chartreuse-dark)
