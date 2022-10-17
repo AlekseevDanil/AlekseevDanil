@@ -37,9 +37,9 @@ _- that's how many cool guys visited my profile 😎_
 > E-mail - [mail@dn-alekseev.ru](mailto:mail@dn-alekseev.ru)
 
 
-### 🌄 The place where I get inspired
+<!--- ### 🌄 The place where I get inspired --->
 
-> Pinterest: [pinterest.com/dnalekseev](https://www.pinterest.ru/dnalekseev/)
+<!--- > Pinterest: [pinterest.com/dnalekseev](https://www.pinterest.ru/dnalekseev/) --->
 
 - - -
 🌟 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me.
