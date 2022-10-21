@@ -1,5 +1,5 @@
-<img src="https://media.giphy.com/media/9HSZX0Wtr82Vx0GnLT/giphy.gif" width="400">\
-_Hello there! 👋 Thank you for your interest in my profile, hope you find something useful for yourself_
+<img src="https://media.giphy.com/media/9HSZX0Wtr82Vx0GnLT/giphy.gif" width="500">\
+_"The mind, once stretched by a new idea, never returns to its original dimensions."_
 
 <br/>
 
@@ -31,9 +31,9 @@ _Hello there! 👋 Thank you for your interest in my profile, hope you find some
 
 
 ### 💬 Would you like to chat with me?
-
+_(feel free to write)_
 > LinkedIn: [linkedin.com/in/dnalekseev](https://www.linkedin.com/in/dnalekseev)\
-> Telegram: [t.me/dn_alekseev](https://t.me/dn_alekseev/) _(open to job offers)_\
+> Telegram: [t.me/dn_alekseev](https://t.me/dn_alekseev/)\
 > E-mail - [mail@dn-alekseev.ru](mailto:mail@dn-alekseev.ru)
 
 
