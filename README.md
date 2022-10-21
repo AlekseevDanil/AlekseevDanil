@@ -1,9 +1,7 @@
-<img src="https://media3.giphy.com/media/3l5yJWhnbw5yyqDcQg/giphy.gif?cid=ecf05e47oa1aeui5zb01gl4xiaulydirlr4ql12nrmg8ycqh&rid=giphy.gif&ct=g" width="400">\
-_Hello there! 👋 Thank you for your interest in my profile, hope you find something useful for yourself_\
-![Visitors](https://profile-counter.glitch.me/AlekseevDanil/count.svg)
-_- that's how many cool guys visited my profile 😎_
+<img src="https://media.giphy.com/media/9HSZX0Wtr82Vx0GnLT/giphy.gif" width="400">\
+_Hello there! 👋 Thank you for your interest in my profile, hope you find something useful for yourself_
 
-- - -
+<br/>
 
 
 ### ✅ My achievements:
@@ -22,6 +20,7 @@ _- that's how many cool guys visited my profile 😎_
 | IDE / Text Editor | ![](https://img.shields.io/badge/-DataGrip-2d18b8?style=flat&logo=DataGrip&logoColor=white) ![](https://img.shields.io/badge/-PyCharm-2d18b8?style=flat&logo=Pycharm&logoColor=white) ![](https://img.shields.io/badge/-Jupyter-2d18b8?style=flat&logo=Jupyter&logoColor=white) ![](https://img.shields.io/badge/-XCode-2d18b8?style=flat&logo=XCode&logoColor=white) ![](https://img.shields.io/badge/-SublimeText-2d18b8?style=flat&logo=SublimeText&logoColor=white) ![](https://img.shields.io/badge/-VS_Code-2d18b8?style=flat&logo=visualstudiocode&logoColor=white) ![](https://img.shields.io/badge/-Vim-2d18b8?style=flat&logo=VIM&logoColor=white)|
 | Agile / Platforms | ![](https://img.shields.io/badge/-SCRUM-B9B4BA?style=flat) ![](https://img.shields.io/badge/-Kanban-B9B4BA?style=flat) ![](https://img.shields.io/badge/-Jira-B9B4BA?style=flat&logo=Jira&logoColor=black) ![](https://img.shields.io/badge/-GitHub_Projects-B9B4BA?style=flat&logo=GitHub&logoColor=black) |
 
+<br/>
 
 ### 👨🏻‍🎓 Online skill platforms:
 
@@ -41,6 +40,3 @@ _- that's how many cool guys visited my profile 😎_
 ### 🌄 The place where I get inspired
 
 > Pinterest: [pinterest.com/dnalekseev](https://www.pinterest.ru/dnalekseev/)
-
-- - -
-🌟 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me.
