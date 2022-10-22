@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/9HSZX0Wtr82Vx0GnLT/giphy.gif" width="500">\
-_"The mind, once stretched by a new idea, never returns to its original dimensions."_
+_"The mind, once stretched by a new idea, never returns to its original dimensions"_
 
 <br/>
 
