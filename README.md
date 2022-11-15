@@ -9,7 +9,7 @@
 - I train neural networks and train myself 🌱
 - Books are the base 📚
 - Open source is everything, but subscriptions are not bad either 🙃
-- If you have something to say, feel free to [write to me](t.me/dn_alekseev) 💬
+- If you have something to say, feel free to [write to me](https://t.me/dn_alekseev) 💬
 
 <br/>
   
