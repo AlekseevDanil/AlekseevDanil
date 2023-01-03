@@ -15,7 +15,6 @@
   
 <p align="center">
     <a href="https://www.linkedin.com/in/AlekseevDanil/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn"/></a>
-    <a href="https://www.kaggle.com/danilalekseev"><img src="https://img.shields.io/badge/Kaggle-lightblue?style=for-the-badge&logo=Kaggle&logoColor=black"/></a>
     <a href="https://leetcode.com/dnalekseev/"><img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode"/></a>
     <a href="https://stackoverflow.com/users/14741746/AlekseevDanil"><img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=StackOverflow&logoColor=gray"/></a>
 </p>
